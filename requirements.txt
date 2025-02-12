@@ -1,0 +1,14 @@
+scrapy~=2.11.2
+configparser~=7.1.0
+scrapeops-scrapy
+psycopg2-binary
+itemadapter~=0.8.0
+requests~=2.31.0
+pandas~=2.2.0
+azure.search
+azure.core
+openai~=1.61.1
+python-dotenv~=1.0.1
+fastapi
+uvicorn
+gunicorn
